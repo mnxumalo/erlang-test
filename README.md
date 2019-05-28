@@ -1,2 +1,2 @@
 # erlang-test
-My first erlang project
+My first erlang project. Well done
